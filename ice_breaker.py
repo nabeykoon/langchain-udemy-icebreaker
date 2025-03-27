@@ -5,10 +5,10 @@ from langchain_openai import AzureChatOpenAI
 from langchain_ollama import ChatOllama
 from langchain.schema import StrOutputParser
 
+from third_parties.linkedin import scrape_linkedin_profile
+
 load_dotenv()
 import os
-
-information = """Elon Reeve Musk (/ˈiːlɒn/ EE-lon; born June 28, 1971) is a businessman known for his key roles in Tesla, SpaceX, and Twitter (which he rebranded as X). Since 2025, he has been a senior advisor to United States president Donald Trump and the de facto head of the Department of Government Efficiency (DOGE). Musk is the wealthiest person in the world; as of March 2025, Forbes estimates his net worth to be $320 billion USD."""
 
 
 if __name__ == "__main__":
@@ -16,7 +16,7 @@ if __name__ == "__main__":
     print(os.environ["AZURE_OPENAI_API_KEY"])
 
     summary_template = """
-    given the information {information} about a person from I want you to create:
+    given the Linkedin information {information} about a person from I want you to create:
     1. A short summary
     2. two interesting facts about them
     """
@@ -29,6 +29,7 @@ if __name__ == "__main__":
 
 
     chain = summary_prompt_template | llm | StrOutputParser() #StrOutputParser() will convert the output to a string, otherwise we have to parse the output ourselves like res.content
-    res = chain.invoke(input={"information": information})
+    linkedin_data = scrape_linkedin_profile(linkedin_profile_url="https://www.linkedin.com/in/nadeera-abeykoon-40a991b8/")
+    res = chain.invoke(input={"information": linkedin_data})
     print(res)
     
