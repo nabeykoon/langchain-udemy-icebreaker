@@ -1,0 +1,615 @@
+{
+    "public_identifier": "nadeera-abeykoon-40a991b8",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nadeera-abeykoon-40a991b8/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5b98f9c99400852a2132054955dda9607b0d1f4c44f05040cfd5331d1e0ff3a7",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/nadeera-abeykoon-40a991b8/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2f42a97bf723ba222c4113d79cefc18d57f910c20a97d346f5cee62806470fe5",
+    "first_name": "Nadeera",
+    "last_name": "Abeykoon",
+    "full_name": "Nadeera Abeykoon",
+    "follower_count": 621,
+    "occupation": "Quality Assurance Manager at Grubtech",
+    "headline": "Test Architect/Manager | QA Consultant",
+    "summary": "A seasoned quality engineering professional with nearly 15 years of experience in the software development industry, specializing in managing software QA and QE processes within Agile development teams.\\n\\nExtensive experience in, but not limited to, the following areas:\\n\\n\\u2022\\tCoach teams and individuals on testing in Agile and DevOps culture\\n\\u2022\\tFormulate test strategies/Test solutions for large scale software product\\n\\u2022\\tTest estimation and Test planning for projects and product improvements\\n\\u2022\\tTest analysis & design for both functional & non-functional aspects of the product\\n\\u2022\\tTest execution, Test results analysis and providing sign off for quality\\n\\u2022\\tFormulate and drive test automation strategy for enterprise application\\n\\u2022\\tTest automation scripting using Selenium and AssertJ based framework for both Swing and HTML based clients\\n\\u2022\\tFamiliar with framework development using different libraries like Selenium, Appium, TestNG, Cypress\\n\\u2022\\tFamiliar with CI/CD tools like Jenkins, Docker and Git\\n\\u2022\\tReview and feedback for test artifacts produced by teams including test designs/manual test scripts, test plans, automation scripts, etc.\\n\\u2022\\tRESTful API testing \\n\\u2022\\tPerformance testing for Java Swing-based application and RESTful APIs\\n\\u2022\\tHandling both technical, non-technical stakeholders located in multiple geographical locations",
+    "country": "LK",
+    "country_full_name": "Sri Lanka",
+    "city": "Colombo District",
+    "state": "Western Province",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "Grubtech",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/grubtech0",
+            "company_facebook_profile_url": null,
+            "title": "Quality Assurance Manager",
+            "description": null,
+            "location": "Sri Lanka",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/grubtech0/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d9f59a8da466779f6f9dc498a39ae2a9e2f107e72e4da3c537222da5037e7fe7"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "company": "Cambio Software Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cambio-software",
+            "company_facebook_profile_url": null,
+            "title": "QA Architect",
+            "description": "Summary of job role:\\n\\nLeading and managing QA & QE practices and effort throughout the development life cycle of allocated product areas of the leading healthcare solution of the Nordic region.\\nDrive the quality initiatives within the allocated teams with the collaboration of Software Architects and QA leads to improve the product quality continuously.\\nAct as a Test coach of allocated teams and mentor QA leads to step up to the next level.\\nAct as a key member of driving changes to QE practices within the organization and support the transformation of the company.\\n\\nOrganizational level contribution:\\n\\nAssitance to drive the change required for the QE practices (Ex: Continuous Testing) which enable DevOps transformation of the company.\\nAssistance to review and maintain organizational level QE documentation.\\nAssistance to implement improvement required for the release level Test plans, Test results, and Risk analysis templates based on the CE marking.\\nMember of the new Test management tool TM4J (Zephyr Scale) rollout team.\\n\\nResponsibilities and tasks:\\n\\nReview test strategies approaches created for product maintenance and new implementation projects\\nDefine & maintain the standard of Test artifacts including Risk analysis, Test plans, Test designs/Scripted tests\\nReview and provide feedback for Test artifacts created by teams\\nLead automation script transformation project from MarathonITE to CTAF (new in house framework based on Selenium, AssertJ, and TestNG technical stack)\\nCoach teams on Testing in Agile, Testing in DevOps, Continous testing, following automation strategy considering Test pyramid to implement unit, Integration, and GUI tests\\nReview automation code and suggestions for continuous improvement.\\nStrategic leadership to QA team on POC project to build a framework to automate REST APIs using Rest Assured.\\nCollaboratively work with Teams/QA leads to assure the quality of releases done by R&D",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cambio-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cf10820711946969b1ab7b67095abb7b0ba99f06cb822498b546c04896c58df"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "company": "Cambio Software Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cambio-software",
+            "company_facebook_profile_url": null,
+            "title": "Associate QA Architect",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cambio-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cf10820711946969b1ab7b67095abb7b0ba99f06cb822498b546c04896c58df"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2018
+            },
+            "company": "Cambio Software Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cambio-software",
+            "company_facebook_profile_url": null,
+            "title": "Senior QA Lead",
+            "description": "Summary of job role:\\n\\nOwn the quality of allocated module areas.\\nImprove test effectiveness and efficiency of allocated teams.\\nOptimize and strengthen the Regression suite of the most complex module area of the product.\\nCoach engineers who play QA lead role and strengthen the next layer.\\nAssist recruitment activities and training.\\n\\nTasks:\\n\\nIdentify and suggest improvements to test strategies required for new project development & new technologies.\\nReview release level Test plans and sign off allocated module areas for each production releases.\\nDrive existing regression suite refactoring effort - By applying CTS, learnings, feedbacks and risk.\\nDrive refactored effort of MarathonITE scripts using Page Object design pattern\\nDesign and review page objects\\n\\nAchievements:\\n\\nDeliver refactored effective regression suite.\\nCreated training material for CTS and trained multiple QA batches.\\nIncrease the maintainability and stability of MarathonITE automation suite.",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cambio-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cf10820711946969b1ab7b67095abb7b0ba99f06cb822498b546c04896c58df"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2017
+            },
+            "company": "Cambio Software Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cambio-software",
+            "company_facebook_profile_url": null,
+            "title": "QA Lead",
+            "description": "Summary of job role:\\n\\nDrive QA tasks according to defined QA processes and standards within the sprints and releases.\\nOwn quality of the deliveries done by the team.\\nRepresent meetings, discussions and raise risk, issues, and dependencies early from Test & quality perspective.\\nCoach junior QA engineers\\n\\nTasks:\\n\\nIn addition to tasks performed as a QA/Senior QA engineer\\nHigh-level estimates for new projects/product Initiatives.\\nCreate and maintain Test plans for releases.\\nReview test artifacts created by the QA team.\\nPlan Exploratory test session within each sprint.\\nMonitor release level tests and results reporting.\\nDrive root cause analysis within the team and implement/Improve test activities based on the learnings.\\nPlan data migration test required to assure the quality of customer transition from old Medication module to new Medication module.\\nLead regression suite automation project for module area using MarathonITE for Java Swing UI.\\n\\nAchievements:\\n\\nLead the Testing of Cambio's longest, most complex and high-risk project (Medication) and assured quality of production release.\\nPromote the usage of white-box test design techniques to overcome gaps in test analysis.\\nImplement CTS (Cambio Test structure) and its usage within the team and optimize testing practices further.",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cambio-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cf10820711946969b1ab7b67095abb7b0ba99f06cb822498b546c04896c58df"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "company": "Cambio Software Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cambio-software",
+            "company_facebook_profile_url": null,
+            "title": "Associate QA Lead",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cambio-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cf10820711946969b1ab7b67095abb7b0ba99f06cb822498b546c04896c58df"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Cambio Software Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cambio-software",
+            "company_facebook_profile_url": null,
+            "title": "Senior Quality Assurance Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cambio-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cf10820711946969b1ab7b67095abb7b0ba99f06cb822498b546c04896c58df"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2012
+            },
+            "company": "Cambio Software Engineering",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cambio-software",
+            "company_facebook_profile_url": null,
+            "title": "Quality Assurance Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/cambio-software/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8cf10820711946969b1ab7b67095abb7b0ba99f06cb822498b546c04896c58df"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2010
+            },
+            "company": "Virtusa",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/virtusa",
+            "company_facebook_profile_url": null,
+            "title": "Quality Assurance Engineer",
+            "description": "Job Profile\\n\\n\\u2022\\tRequirement Gathering & Requirement Analysis\\n\\u2022\\tTest strategy creation\\n\\u2022\\tTest plan creation\\n\\u2022\\tTest Data Needs identification & Requesting Data\\n\\u2022\\tTest designing\\n\\u2022\\tTest execution\\n\\u2022\\tDefect reporting\\n\\u2022\\tCustomer communication\\n\\u2022\\tConfiguration management tool handling\\n\\nTools Used\\n\\n\\u2022\\tClear case (Configuration Management)\\n\\u2022\\tRational Quality Centre (Document Management)\\n\\u2022\\tRational Clear quest (Defect Management)\\n",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/virtusa/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=190e4fa4924630676531bf3bec84299a9d79c5300d0265f1ee985206cf85900d"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2009
+            },
+            "company": "Virtusa",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/virtusa",
+            "company_facebook_profile_url": null,
+            "title": "Associate Quality Assurance Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/virtusa/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=190e4fa4924630676531bf3bec84299a9d79c5300d0265f1ee985206cf85900d"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "field_of_study": "Information Technology",
+            "degree_name": "Master\\u2019s Degree",
+            "school": "University of Colombo",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2038525/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-colombo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250403%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250403T125932Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=bc77232dcff69cffd3e924ccfe8bf38c758cca038778f832b705499cb1d59eb7",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "field_of_study": "Physical Sciences",
+            "degree_name": "Bachelor\\u2019s Degree",
+            "school": "University of Kelaniya Sri Lanka",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15099978/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.2Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a7d84c351e88f7ad9635fb881a16aef9d698ccfbb691213dd32383dd87db6614",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "languages_and_proficiement_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Mobile Testing with Appium",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/9e93012c2ff3a050ca5f8e2ff6d57d2b05fb557d0ea5ac7738db5b27e6620c1e?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Advanced Appium",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/a49b18c2f6069801273807b0b84208d74127aa03eacaca3f934ae0135b80ebb1?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Learning Power BI Desktop",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/18747d405f0645b7563fbe2acb3324df0ca2a240b73b558da1c0966a10406824?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Selenium Essential Training",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/c655e01b4b7071bac91a1e7e96398c88e7f25a09c1e0ad4e93ebd64099bf3856?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Learning Docker",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/60f75294206e28a15a0a4247c27e03e0fa50ce8c2c9b9668905abf12415c77ac?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Advanced Selenium: Support Classes",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/a6a8a19557465a4dc72a12025c77c3ae16937bfdcd6c84342951ab7bf06cd725?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2022
+            },
+            "name": "JMeter\\u2122 Pro",
+            "license_number": "50866527",
+            "display_source": null,
+            "authority": "BlazeMeter University",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Advanced Selenium: 3 Synchronization Strategies",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/106efb6be0527864ed6ad0b5f077463d1e5b5ad7e59f7a2e1bf5c6066d23fcb7?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Lean Technology Strategy: Running Agile at Scale",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/f827f814b60f347c65314069167250cb9a4b58db093075a99ef41e7a7f04aa9b?trk=backfilled_certificate"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": null,
+            "name": "Building High-Performance Teams",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/657519888fc433139b98344c6c1d26f29935799c1e0f888e0a31036259cc5c12?trk=backfilled_certificate"
+        }
+    ],
+    "connections": 620,
+    "people_also_viewed": [
+        {
+            "link": "https://lk.linkedin.com/in/buddhima-de-silva-020058141",
+            "name": "Buddhima De Silva",
+            "summary": "QA Engineer",
+            "location": "Colombo"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/heshani-subasinghe",
+            "name": "Heshani Subasinghe",
+            "summary": "Senior QA Engineer at Aeturnum Lanka (Pvt) Ltd | ISTQB-CTFL",
+            "location": "Sri Lanka"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/devendri-sarathchandra-46558b128",
+            "name": "Devendri Sarathchandra",
+            "summary": "QA Technical Lead at TIQRI",
+            "location": "Kalutara District"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/sarath-kadigamugedara-1aa4512a",
+            "name": "Sarath Kadigamugedara",
+            "summary": "QA Manager",
+            "location": "Colombo District"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/risath-rangana-57747316",
+            "name": "Risath Rangana",
+            "summary": "Manager - Software Engineering at Cambio Software Engineering",
+            "location": "Colombo"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/vinuth-marasinghe-145940220",
+            "name": "Vinuth Marasinghe",
+            "summary": "Royalist. Sri Lankan. Student.",
+            "location": "Colombo"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/pamal-sahan-b08a9a194",
+            "name": "Pamal Sahan",
+            "summary": "Associate Software Engineer at Cambio Software Engineering",
+            "location": "Sri Lanka"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/senthilkumaran-shanmugaratnam-074775130",
+            "name": "Senthilkumaran Shanmugaratnam",
+            "summary": "Software Engineer at Cambio Software Engineering",
+            "location": "Sri Lanka"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/prabath-mahendra-011b6a1b",
+            "name": "Prabath Mahendra",
+            "summary": "Senior Consultant at Virtusa",
+            "location": "Sri Lanka"
+        },
+        {
+            "link": "https://sg.linkedin.com/in/kaveesha-rathnayake",
+            "name": "Kaveesha Rathnayake",
+            "summary": "Quality Engineer",
+            "location": "Singapore"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/gihan-jayakody-a0479932",
+            "name": "Gihan Jayakody",
+            "summary": "Assistant Manager Supply Chain at Nippon Paint Lanka (Pvt) Ltd",
+            "location": "Sri Lanka"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/harshani-padukka-122072201",
+            "name": "Harshani Padukka",
+            "summary": "Administrative Assistant at Cambio Software Engineering",
+            "location": "Colombo"
+        },
+        {
+            "link": "https://in.linkedin.com/in/katyayani-krishna",
+            "name": "Katyayani Krishna",
+            "summary": "Area HR Head - South Asia, Maersk",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/sandun-mohottige-49202362",
+            "name": "Sandun Mohottige",
+            "summary": "Quality Assurance Lead at 99X Technology",
+            "location": "Sri Lanka"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/buddhika-akalanka-32a3b266",
+            "name": "Buddhika Akalanka",
+            "summary": "Senior Technical specialist quality engineering at Pearson Lanka",
+            "location": "Gampaha District"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/nalaka-gamage-54823a47",
+            "name": "Nalaka Gamage",
+            "summary": "QA Lead at Mitra Innovation",
+            "location": "Colombo District"
+        },
+        {
+            "link": "https://in.linkedin.com/in/divya-nambiar-parsekar-3b8b1415",
+            "name": "Divya Nambiar  Parsekar",
+            "summary": "HR Profesional",
+            "location": "Maharashtra, India"
+        },
+        {
+            "link": "https://in.linkedin.com/in/gautam-shetty-3421a28",
+            "name": "Gautam Shetty",
+            "summary": "APAC Head of Talent Acquisition and Employer Branding",
+            "location": "Bengaluru"
+        },
+        {
+            "link": "https://in.linkedin.com/in/akshyat",
+            "name": "Akshyat Bhatia",
+            "summary": "Head of Inland Business - South Asia at A.P. Moller Maersk",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://lk.linkedin.com/in/imasha-illangasinghe-4b5808120",
+            "name": "Imasha Illangasinghe",
+            "summary": "Quality Assurance Representative at Zone24x7",
+            "location": "Sri Lanka"
+        },
+        {
+            "link": "https://www.linkedin.com/in/lahiru-waduge-2611b36",
+            "name": "Lahiru Waduge",
+            "summary": "Experienced Test Manager | Head of QA | Agile Practitioner | Head of Delivery | Scrum Master | Project Manager",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/pasan-jayasinghe-b29517198",
+            "name": "Pasan Jayasinghe",
+            "summary": "Student at University of Westminster",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/nalaka-ilangaratne-515ba7187",
+            "name": "NALAKA ILANGARATNE",
+            "summary": "Manager People Success - Sri Lanka at Cambio Software Engineering",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/sandrinaa",
+            "name": "Sandrina Abeywardene",
+            "summary": "Lead Information Designer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/saranyan-thayalingam-829325148",
+            "name": "Saranyan Thayalingam",
+            "summary": "Associate Technical Lead at GrubTech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vjatseslav-d-89664617b",
+            "name": "Vjatseslav D.",
+            "summary": "Product Specialist at Videobet",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/patrick-vetka-b1a681233",
+            "name": "Patrick Vetka",
+            "summary": "Development QA engineer at Playtech",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/silver-teigar-45b710177",
+            "name": "Silver Teigar",
+            "summary": "Art Director/Team Lead at Playtech Tallinn",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/margus-saar-a6463694",
+            "name": "Margus Saar",
+            "summary": "I'm converting ideas to products and solutions with quick learning and adaption.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/stefano-bertelli-498570182",
+            "name": "Stefano Bertelli",
+            "summary": "Infrastructure Engineer at Swedbank Estonia",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Nadeera Abeykoon",
+            "link": "https://lk.linkedin.com/in/nadeera-abeykoon-6365a317b",
+            "summary": "Accountant at Royal Holidays",
+            "location": "Sri Lanka"
+        },
+        {
+            "name": "Nadeera Abeykoon",
+            "link": "https://lk.linkedin.com/in/nadeera-abeykoon-486a4521b",
+            "summary": "--",
+            "location": "Kalutara District"
+        },
+        {
+            "name": "Nadeera Abeykoon",
+            "link": "https://ae.linkedin.com/in/nadeera-abeykoon-221406155",
+            "summary": "Cashier, Sales Associate at Choithrams",
+            "location": "United Arab Emirates"
+        },
+        {
+            "name": "Nadeera Abeykoon",
+            "link": "https://lk.linkedin.com/in/nadeera-abeykoon-5936a559",
+            "summary": "Regional Human Resources Business Partner -  West Central Asia at A.P. Moller - Maersk",
+            "location": "Colombo"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/v2/D4E07AQG0-6fJ0PEdgA/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1695360394554?e=1744225200&v=beta&t=uVkGkfxmfcszo1BXC9ufALdqIGEdTz8Gz_XF_xaIH9U",
+            "name": "Test Automation",
+            "url": "https://www.linkedin.com/groups/86204"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

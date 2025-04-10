@@ -5,7 +5,7 @@ from langchain_openai import AzureChatOpenAI
 from langchain_ollama import ChatOllama
 from langchain.schema import StrOutputParser
 
-from third_parties.linkedin import scrape_linkedin_profile
+from third_parties.linkedin_proxyCurl import scrape_linkedin_profile
 
 load_dotenv()
 import os
@@ -24,8 +24,8 @@ if __name__ == "__main__":
     summary_prompt_template = PromptTemplate(
         input_variables="information", template=summary_template
     )
-    # llm = AzureChatOpenAI(temperature=0, model_name="gpt-3.5-turbo", api_version="2025-01-01-preview")
-    llm = ChatOllama(model="mistral")
+    llm = AzureChatOpenAI(temperature=0, model_name="gpt-3.5-turbo", api_version="2025-01-01-preview")
+    # llm = ChatOllama(model="mistral")
 
 
     chain = summary_prompt_template | llm | StrOutputParser() #StrOutputParser() will convert the output to a string, otherwise we have to parse the output ourselves like res.content
